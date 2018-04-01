@@ -1,2 +1,2 @@
 # Proyecto-Dia-i
-Proyecto final de Métodos Númericos
+Proyecto final de Métodos Numéricos
